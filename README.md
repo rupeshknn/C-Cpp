@@ -5,4 +5,4 @@ Resources:
 * Programming Principles and Practice using C++ - Bjarne Stroustrup
 * CodeAcademy C++ for programmers
 
-*Wish me luck*
+*Wish me lucky*

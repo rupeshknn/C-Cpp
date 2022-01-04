@@ -7,7 +7,7 @@ main()
     float low, high, step;
     low = 0.0;
     high = 100.0;
-    step = 10.5;
+    step = 9.5;
     cel = low;
     printf("\nconvert celcius to farenheight\n \n");
     printf("Celcius\tFarenheight\n");

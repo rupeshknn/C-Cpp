@@ -1,7 +1,7 @@
 // celcius to farenhieght with floats
 #include<stdio.h>
 
-main()
+int main()
 {
     float farh, cel;
     float low, high, step;
